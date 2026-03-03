@@ -1,0 +1,12 @@
+GET http://localhost:3000/providers/classe
+
+###
+GET http://localhost:3000/providers/funcao
+
+
+###
+GET http://localhost:3000/providers/objeto
+
+
+###
+GET http://localhost:3000/providers/reuso

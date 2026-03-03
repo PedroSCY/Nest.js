@@ -1,0 +1,11 @@
+GET http://localhost:3000/notificador-email
+
+
+###
+GET http://localhost:3000/notificador-sms
+
+###
+GET http://localhost:3000/financeiro
+
+###
+GET http://localhost:3000/administrativo

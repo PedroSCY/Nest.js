@@ -1,0 +1,8 @@
+GET http://localhost:3000/usuarios
+
+###
+GET http://localhost:3000/usuarios/posts/123
+
+
+###
+GET http://localhost:3000/usuarios/123/comentarios

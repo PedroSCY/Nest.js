@@ -1,0 +1,10 @@
+POST http://localhost:3000/pipes/moeda
+Content-Type: application/json
+
+{
+    "preco": 10.50
+}
+
+###
+
+GET http://localhost:3000/pipes/email?email=alo@mail.com

@@ -1,0 +1,7 @@
+GET http://localhost:3000/decorators/logar-acesso
+
+###
+GET http://localhost:3000/decorators/erro
+
+###
+GET http://localhost:3000/decorators/param?n=10

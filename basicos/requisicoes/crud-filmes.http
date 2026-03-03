@@ -1,0 +1,35 @@
+GET http://localhost:3000/crud-filmes
+
+####
+
+POST http://localhost:3000/crud-filmes
+Content-Type: application/json
+
+{
+  "titulo": "O Poderoso Chefão",
+  "diretor": "Francis Ford Coppola",
+  "ano": 1972
+}
+
+###
+
+GET http://localhost:3000/crud-filmes/3
+
+###
+
+GET http://localhost:3000/crud-filmes?invertido=true
+
+###
+
+PUT http://localhost:3000/crud-filmes/0
+Content-Type: application/json
+
+{
+  "titulo": "ATUALIZADO - O Poderoso Chefão Parte II",
+  "diretor": "Francis Ford Coppola",
+  "ano": 1974
+}
+
+####
+
+DELETE http://localhost:3000/crud-filmes/0

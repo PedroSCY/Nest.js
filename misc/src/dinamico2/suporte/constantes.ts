@@ -1,0 +1,2 @@
+export const OPCOES_ROOT = "OPCOES_ROOT"
+export const OPCOES_FEATURE = "OPCOES_FEATURE"
