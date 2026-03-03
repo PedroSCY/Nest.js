@@ -12,15 +12,16 @@ Também funciona como vitrine técnica, permitindo que recrutadores e colaborado
 
 O que você encontrará aqui?
 
-✔️ Estruturação de projetos seguindo padrão modular
-✔️ Controllers, Services e Modules bem organizados
-✔️ Injeção de dependência
-✔️ DTOs e validações
-✔️ Autenticação com JWT
-✔️ Guards e Middlewares
-✔️ Tratamento de erros e Exceptions
-✔️ Arquitetura limpa e separação de responsabilidades
-✔️ Experimentos com boas práticas e organização escalável
+- ✔️ Estruturação de projetos seguindo padrão modular
+- ✔️ Controllers, Services e Modules bem organizados
+- ✔️ Injeção de dependência
+- ✔️ DTOs e validações
+- ✔️ Autenticação com JWT
+- ✔️ Guards e Middlewares
+- ✔️ Integração com banco de dados
+- ✔️ Tratamento de erros e Exceptions
+- ✔️ Arquitetura limpa e separação de responsabilidades
+- ✔️ Experimentos com boas práticas e organização escalável
 
 Por que NestJS?
 
